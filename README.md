@@ -49,14 +49,10 @@ Estudante de Análise e Desenvolvimento de Sistemas focado em criar aplicações
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <a href="https://github.com/iwesleyneves">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=iwesleyneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Wesley Neves" height="190px" />
-  </a>
-  <a href="https://github.com/iwesleyneves">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwesleyneves&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="190px" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iwesleyneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iwesleyneves&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="175" />
+</p>
 
 ---
 
