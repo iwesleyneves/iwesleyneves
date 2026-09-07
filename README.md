@@ -39,8 +39,12 @@ Desenvolvedor em fase de conclusão de Análise e Desenvolvimento de Sistemas. F
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=iwesleyneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=iwesleyneves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true" alt="Estatísticas do GitHub" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=iwesleyneves&layout=compact&theme=dracula" alt="Linguagens mais usadas" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iwesleyneves&theme=dracula" alt="GitHub Streak" />
 </p>
 
 ---
